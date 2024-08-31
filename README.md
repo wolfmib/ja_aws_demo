@@ -1,3 +1,31 @@
+     ____.  _____         ____.  _____         ____.  _____                                                               
+    |    | /  _  \       |    | /  _  \       |    | /  _  \                                                              
+    |    |/  /_\  \      |    |/  /_\  \      |    |/  /_\  \                                                             
+/\__|    /    |    \ /\__|    /    |    \ /\__|    /    |    \                                                            
+\________\____|__  / \________\____|__  / \________\____|__  /                                                            
+                 \/                   \/                   \/                                                             
+   _____  __      __  _________           ________.__                          ____          __               ________    
+  /  _  \/  \    /  \/   _____/          /  _____/|  |  __ __   ____   /\     /_   |       _/  |_  ____      /  _____/    
+ /  /_\  \   \/\/   /\_____  \   ______ /   \  ___|  | |  |  \_/ __ \  \/      |   |       \   __\/  _ \    /   __  \     
+/    |    \        / /        \ /_____/ \    \_\  \  |_|  |  /\  ___/  /\      |   |        |  | (  <_> )   \  |__\  \    
+\____|__  /\__/\  / /_______  /          \______  /____/____/  \___  > \/      |___| /\     |__|  \____/     \_____  / /\ 
+        \/      \/          \/                  \/                 \/                \/                            \/  \/ 
+         
+=====================================================================================         
+         
+
+- [Unlocking the Power of AWS Glue Crawlers for Effective ETL Processes Part 1](https://www.linkedin.com/pulse/unlocking-power-aws-glue-crawlers-effective-etl-processes-johnny-hung-tby2f/?trackingId=j0z0inlZQXiHtyqpvpUpUg%3D%3D)
+- [Unlocking the Power of AWS Glue Crawlers for Effective ETL Processes Part 2](https://www.linkedin.com/pulse/unlocking-power-aws-glue-crawlers-effective-etl-processes-johnny-hung-why2f/?trackingId=UFHe34NfT%2BS1%2BIzl0BZWIQ%3D%3D)
+- [Unlocking the Power of AWS Glue ETL: Transforming and Organizing Data for Analysis (Part 3)](https://www.linkedin.com/pulse/unlocking-power-aws-glue-etl-transforming-organizing-data-johnny-hung-yt2zf/?trackingId=JuykAErsR%2F6iyqqPqkc6cA%3D%3D)
+         
+         
+         
+         
+         
+         
+         
+         
+         
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
