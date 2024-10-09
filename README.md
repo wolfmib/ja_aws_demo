@@ -13,7 +13,9 @@
 
         
 =====================================================================================         
-         
+ 
+![AWS Glue Structure](./certi/struc.jpg)
+        
 
 - [Unlocking the Power of AWS Glue Crawlers for Effective ETL Processes Part 1](https://www.linkedin.com/pulse/unlocking-power-aws-glue-crawlers-effective-etl-processes-johnny-hung-tby2f/?trackingId=j0z0inlZQXiHtyqpvpUpUg%3D%3D)
 - [Unlocking the Power of AWS Glue Crawlers for Effective ETL Processes Part 2](https://www.linkedin.com/pulse/unlocking-power-aws-glue-crawlers-effective-etl-processes-johnny-hung-why2f/?trackingId=UFHe34NfT%2BS1%2BIzl0BZWIQ%3D%3D)
