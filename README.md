@@ -9,6 +9,8 @@
 - [Unlocking the Power of AWS Glue ETL: Transforming and Organizing Data for Analysis (Part 3)](https://www.linkedin.com/pulse/unlocking-power-aws-glue-etl-transforming-organizing-data-johnny-hung-yt2zf/?trackingId=JuykAErsR%2F6iyqqPqkc6cA%3D%3D)
 - [Optimizing AWS Glue ETL Jobs: Transitioning to Separate S3 Buckets for Raw and Analytics Layers (Part 4)](https://www.linkedin.com/pulse/optimizing-aws-glue-etl-jobs-transitioning-separate-s3-johnny-hung-ok1ff/?trackingId=G4%2FqaSkQG82Mt6MFKmUZTA%3D%3D)
 - [Automating ETL with AWS Glue: Setting Up Daily Schedules and Auto-Crawlers (Part 5)](https://www.linkedin.com/pulse/automating-etl-aws-glue-setting-up-daily-schedules-part-wei-che-hung-2vxof/?trackingId=wPjJyC2SRmmIieI7ZegIcA%3D%3D)
+
+- [Visualizing Your AWS Data Lake with Amazon QuickSight (Part 6) ](https://www.linkedin.com/pulse/visualizing-your-aws-data-lake-amazon-quicksight-wei-che-hung-vjulf/?trackingId=6Gv3accOSlSTMKyTZ8YXDg%3D%3D)
          
          
          
