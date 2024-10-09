@@ -1,6 +1,17 @@
 
 ## AWS Glue Series by JA (johnny-alin-data.com)
-         
+ 
+## AWS Certificate
+- [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/6778cea1-3f23-4b02-afaa-8586da0f3b3c/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9539268b-5bd3-41dc-b87d-4e8de0a255ec)
+
+![AWS Certified Data Analytics](./certi/certi_one.png)
+
+![AWS Certified Cloud Practitioner](./certi/certi_two.png)
+
+
+
+        
 =====================================================================================         
          
 
